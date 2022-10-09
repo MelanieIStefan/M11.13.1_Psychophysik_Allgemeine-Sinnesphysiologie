@@ -9,6 +9,9 @@
    viewBox="0 0 1375.2799 187.13727"
    sodipodi:docname="wahrnehmungsprozess.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   inkscape:export-filename="wahrnehmungsprozess.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -132,7 +135,7 @@
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g198"
+     inkscape:current-layer="g35067"
      showguides="false" />
   <g
      inkscape:groupmode="layer"
@@ -215,14 +218,19 @@
       <text
          xml:space="preserve"
          style="font-size:18.6667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#daa49a;fill-opacity:0.318967;stroke:#0000eb;stroke-width:0.756"
-         x="152.09917"
-         y="207.58646"
+         x="191.14987"
+         y="196.01311"
          id="text1128"><tspan
            sodipodi:role="line"
-           id="tspan1126"
-           x="152.09917"
-           y="207.58646"
-           style="font-size:18.6667px;fill:#000000;fill-opacity:1;stroke:none">Rezeptor</tspan></text>
+           x="191.14987"
+           y="196.01311"
+           style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1991">Sensor/</tspan><tspan
+           sodipodi:role="line"
+           x="191.14987"
+           y="219.34648"
+           style="font-size:18.6667px;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           id="tspan1995">Rezeptor</tspan></text>
     </g>
     <g
        id="g35073"
